@@ -7,10 +7,8 @@ import { PromptTemplates } from './components/PromptTemplates';
 import { FlagInspector } from './components/FlagInspector';
 import { ProtocolNotice } from './components/ProtocolNotice';
 import { Footer } from './components/Footer';
-import { GeminiAssistant } from './components/GeminiAssistant';
-import { DEFAULT_FLAG, generateRandom25DigitFlag, computeSha256 } from './utils/flagUtils';
-
 import { DecoyHoneypot } from './components/DecoyHoneypot';
+import { DEFAULT_FLAG, generateRandom25DigitFlag, computeSha256 } from './utils/flagUtils';
 
 export default function App() {
   const [flag, setFlag] = useState<string>(() => {
@@ -130,8 +128,6 @@ export default function App() {
 
         <ProtocolNotice />
       </main>
-
-      <GeminiAssistant flag={flag} onInteraction={registerInteraction} />
 
       <Footer />
     </div>
