@@ -1,0 +1,6 @@
+{
+  "name": "AI Benchmark Flag Node",
+  "description": "Zero-barrier evaluation endpoint and scientific verification console hosting a 25-digit target flag for AI model retrieval experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

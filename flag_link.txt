@@ -1,0 +1,14 @@
+AI Experiment Target Flag Link:
+https://ais-dev-ug6jgwlakjf5idgx7oix3o-379852629695.asia-northeast1.run.app
+
+Target Flag (25-digit random numeric string):
+8492018374920158392018472
+
+Machine-Readable Endpoints:
+- Web Console: https://ais-dev-ug6jgwlakjf5idgx7oix3o-379852629695.asia-northeast1.run.app
+- Raw Text Flag: https://ais-dev-ug6jgwlakjf5idgx7oix3o-379852629695.asia-northeast1.run.app/flag.txt
+- JSON API: https://ais-dev-ug6jgwlakjf5idgx7oix3o-379852629695.asia-northeast1.run.app/api/flag.json
+
+Access Policy:
+- Authentication: None (Publicly open for automated AI retrieval benchmarks)
+- Anti-bot / OAuth: None (No challenges, no captchas, unrestricted access)
